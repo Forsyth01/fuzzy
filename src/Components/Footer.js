@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
 
                 <hr className="bg-green-500 h-[2px] xl:hidden" />
-                <p className="text-white text-center uppercase font-bold pb-5">&copy;Street<span className='text-green-500'>Money</span></p>
+                <p className="text-white text-center uppercase font-bold pb-5">&copy;Fu<span className='text-green-500'>zzy</span></p>
             </div>
         </div>
     );

@@ -7,7 +7,7 @@ const Navbar = () => {
             <div className="m-auto w-[85%] py-5 flex items-center justify-between">
                 <div className="">
                     <Link to="/">
-                        <h1 className="font-bold text-md xl:text-xl md:text-md uppercase" >Street<span className='text-green-500'>Money</span></h1>
+                        <h1 className="font-bold text-md xl:text-xl md:text-md uppercase" >Fu<span className='text-green-500'>zzy</span></h1>
                     </Link>
                 </div>
                 <div className="">
